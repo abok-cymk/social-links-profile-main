@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./social-profile-screenshot.jpeg)
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/abok-cymk/social-links-profile-main)
+- Live Site URL: [live site URL](https://abok-cymk.github.io/social-links-profile-main/)
 
 ## My process
 
