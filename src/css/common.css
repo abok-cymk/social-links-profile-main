@@ -1,0 +1,49 @@
+:root {
+    --fw-600: 600;
+    --fw-700: 700;
+    /* BG */
+    --color-grey-900: hsl(0, 0%, 8%);
+
+    /* Article card bg */
+    --color-grey-800: hsl(0, 0%, 12%);
+
+
+    /* Button links */
+    --color-grey-700: hsl(0, 0%, 20%); /* unhovered state */
+    --color-green: hsl(75, 94%, 57%); /* Hovered states */
+    --color-white: hsl(0, 0%, 100%);
+    --fs: 0.875em;
+
+}
+
+/* @font-face {
+    font-family: Inter, sans-serif;
+    src: url("../assets/fonts/static/Inter-Regular.ttf"),
+    url("../assets/fonts/static/Inter-SemiBold.ttf"),
+    url("../assets/fonts/static/Inter-Bold.ttf");
+} */
+
+body {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    background-color: var(--color-grey-900);
+}
+
+p {
+    font-size: var(--fs);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
